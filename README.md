@@ -17,10 +17,3 @@ Un’applicazione per Windows scritta in **Python** che permette di **programmar
 - Funziona anche da `.exe` compilato con **PyInstaller**
 
 ---
-
-## 🚀 Come usarlo
-
-1. Clona la repository o scarica il progetto:
-   ```bash
-   git clone https://github.com/tuo-username/PyShutdownScheduler.git
-   cd PyShutdownScheduler
