@@ -1,19 +1,19 @@
 # 🖥️ PyShutdownScheduler
 
-Un’applicazione per Windows scritta in **Python** che permette di **programmare lo spegnimento o l’ibernazione del PC** in base a orari e giorni della settimana, con interfaccia grafica semplice e opzione di avvio automatico.
+A Windows application written in **Python** that allows you to **schedule PC shutdown or hibernation** based on time and selected weekdays, with a simple graphical interface and an option for automatic startup.
 
 ---
 
-## ✨ Funzionalità
-- Pianificazione di più regole con:
-  - Giorni della settimana selezionabili (lun → dom)
-  - Orario personalizzato (HH:MM)
-  - Azione: **Spegni** o **Iberna**
-  - Stato attivo/disattivo
-- Avviso con **countdown di 20 secondi** prima dell’esecuzione, con possibilità di annullare
-- Interfaccia grafica (GUI) realizzata con **tkinter**
-- Salvataggio automatico delle regole in `%APPDATA%\PyShutdownScheduler\config.json`
-- Opzione per abilitare/disabilitare l’**avvio automatico all’accesso di Windows** (tramite registro di sistema)
-- Funziona anche da `.exe` compilato con **PyInstaller**
+## ✨ Features
+- Schedule multiple rules with:
+  - Selectable weekdays (Mon → Sun)
+  - Custom time (HH:MM)
+  - Action: **Shutdown** or **Hibernate**
+  - Enabled/Disabled state
+- Notification with a **20-second countdown** before execution, with the option to cancel
+- Graphical User Interface (GUI) built with **tkinter**
+- Automatic saving of rules in `%APPDATA%\PyShutdownScheduler\config.json`
+- Option to enable/disable **autostart on Windows login** (via Windows Registry)
+- Also works as a `.exe` compiled with **PyInstaller**
 
 ---
