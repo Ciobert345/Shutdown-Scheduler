@@ -1,4 +1,4 @@
-# 🖥️ PyShutdownScheduler
+# 🖥️ Shutdown Scheduler
 
 A Windows application written in **Python** that allows you to **schedule PC shutdown or hibernation** based on time and selected weekdays, with a simple graphical interface and an option for automatic startup.
 
