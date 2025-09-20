@@ -10,10 +10,10 @@ A Windows application written in **Python** that allows you to **schedule PC shu
   - Custom time (HH:MM)
   - Action: **Shutdown** or **Hibernate**
   - Enabled/Disabled state
-- Notification with a **20-second countdown** before execution, with the option to cancel
-- Graphical User Interface (GUI) built with **tkinter**
+- Modern graphical User Interface 
 - Automatic saving of rules in `%APPDATA%\PyShutdownScheduler\config.json`
 - Option to enable/disable **autostart on Windows login** (via Windows Registry)
+- Autostart minimized to system tray** for a cleaner startup experience
 - Also works as a `.exe` compiled with **PyInstaller**
 
 ---
