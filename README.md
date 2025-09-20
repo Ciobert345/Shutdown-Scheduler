@@ -13,7 +13,7 @@ A Windows application written in **Python** that allows you to **schedule PC shu
 - Modern graphical User Interface 
 - Automatic saving of rules in `%APPDATA%\PyShutdownScheduler\config.json`
 - Option to enable/disable **autostart on Windows login** (via Windows Registry)
-- Autostart minimized to system tray** for a cleaner startup experience
+- Option to autostart minimized to system tray** for a cleaner startup experience
 - Also works as a `.exe` compiled with **PyInstaller**
 
 ---
